@@ -1,16 +1,24 @@
-# Never Stop Learning
+Never Stop Learning
+=========================================
 
 A collection of learning resources, cause the learning never stops. Only one way to stay on top, keep working hard.
 
 Resources are in in alphabetical order, by language/topic. Use [markdown syntax](http://daringfireball.net/projects/markdown/syntax "Markdown Syntax Reference") to add new resources.
 
-## Angular.js
+Angular.js
+------------------------------------------
 
-## Ember.js
 
-## iOS
+Ember.js
+------------------------------------------
 
-## Javascript
+
+iOS
+------------------------------------------
+
+
+Javascript
+------------------------------------------
 
 ### Articles to Read
 
@@ -20,13 +28,22 @@ Resources are in in alphabetical order, by language/topic. Use [markdown syntax]
 
 - [superhero.js](http://superherojs.com/ "A collection of JS resources.") - "Creating, testing and maintaining a large JavaScript code base is not easy — especially since great resources on how to do this are hard to find. This page is a collection of the best articles, videos and presentations we've found on the topic."
 
-## Node.js
+### Books
 
-## Python/Django
+- [Learning Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/), a book by Addy Osmani - It's free and available online! Definitely a great reference.
+
+
+Node.js
+------------------------------------------
+
+
+Python/Django
+------------------------------------------
 
 - [Django Project](https://www.djangoproject.com/) - "Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design."
 
-## Ruby/Rails
 
+Ruby/Rails
+------------------------------------------
 
 
