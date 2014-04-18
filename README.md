@@ -58,8 +58,11 @@ Angular Notes.
 
 #### Ember.js
 
+#### Reads:
+- [Core Concepts](http://emberjs.com/guides/concepts/core-concepts/)
+
 ##### Tutorials:
-- [A Guide to Building Your First Ember.js App](http://www.toptal.com/javascript/a-step-by-step-guide-to-building-your-first-ember-js-app)
+- Make a blog post & Todo app via [Emerjs.com Guides](http://emberjs.com/guides/)
 
 ---------------------------------------------------------------------------
 
