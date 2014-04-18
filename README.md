@@ -58,7 +58,8 @@ Angular Notes.
 
 #### Ember.js
 
-Ember Notes.
+##### Tutorials:
+- [A Guide to Building Your First Ember.js App](http://www.toptal.com/javascript/a-step-by-step-guide-to-building-your-first-ember-js-app)
 
 ---------------------------------------------------------------------------
 
@@ -80,7 +81,6 @@ Ember Notes.
 
 ### Tutorials
 
-For any AJAX JSON stuff, make sure to use [Mocky](http://www.mocky.io/)! It's very helpful.
 
 
 Ruby/Rails
