@@ -7,13 +7,13 @@ Use [markdown syntax](http://daringfireball.net/projects/markdown/syntax "Markdo
 
 
 CSS
-------------------------------------------
+=========================================
 
 ### Books
 - [Scalable and Modular Architecture for CSS](http://smacss.com/) (A must read! We should buy/download this book.)
 
 Javascript
-------------------------------------------
+=========================================
 
 ### Resources
 
@@ -82,7 +82,7 @@ Angular Notes.
 
 
 Ruby/Rails
-------------------------------------------
+=========================================
 
 ### Resources
 
@@ -90,17 +90,17 @@ Ruby/Rails
 
 
 iOS/Objective-C
-------------------------------------------
+=========================================
 
 
 Python/Django
-------------------------------------------
+=========================================
 
 - [Django Project](https://www.djangoproject.com/) - "Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design."
 - TastyPie??
 
 Sublime Text
-------------------------------------------
+=========================================
 
 ### [Package Control Manager](https://sublime.wbond.net/)
 
