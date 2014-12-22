@@ -87,6 +87,7 @@ Ruby/Rails
 ### Resources
 
 - [The Best Way to Learn Ruby on Rails](http://code.tutsplus.com/tutorials/the-best-way-to-learn-ruby-on-rails--net-21820) - A great collection of articles/tutorials to follow.
+- [Rails Tutorial Book (Good one!)](https://www.railstutorial.org/book/beginning)
 
 
 iOS/Objective-C
