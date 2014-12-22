@@ -63,6 +63,8 @@ Angular Notes.
 
 ##### Tutorials:
 - Make a blog post & Todo app via [Emerjs.com Guides](http://emberjs.com/guides/)
+- [A Guide to Building Your First Ember.js App
+](http://www.toptal.com/javascript/a-step-by-step-guide-to-building-your-first-ember-js-app)
 
 ---------------------------------------------------------------------------
 
