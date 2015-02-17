@@ -7,13 +7,13 @@ Use [markdown syntax](http://daringfireball.net/projects/markdown/syntax "Markdo
 
 
 CSS
-------------------------------------------
+=========================================
 
 ### Books
 - [Scalable and Modular Architecture for CSS](http://smacss.com/) (A must read! We should buy/download this book.)
 
 Javascript
-------------------------------------------
+=========================================
 
 ### Resources
 
@@ -65,6 +65,8 @@ Angular Notes.
 
 ##### Tutorials:
 - Make a blog post & Todo app via [Emerjs.com Guides](http://emberjs.com/guides/)
+- [A Guide to Building Your First Ember.js App
+](http://www.toptal.com/javascript/a-step-by-step-guide-to-building-your-first-ember-js-app)
 
 ---------------------------------------------------------------------------
 
@@ -84,25 +86,26 @@ Angular Notes.
 
 
 Ruby/Rails
-------------------------------------------
+=========================================
 
 ### Resources
 
 - [The Best Way to Learn Ruby on Rails](http://code.tutsplus.com/tutorials/the-best-way-to-learn-ruby-on-rails--net-21820) - A great collection of articles/tutorials to follow.
+- [Rails Tutorial Book (Good one!)](https://www.railstutorial.org/book/beginning)
 
 
 iOS/Objective-C
-------------------------------------------
+=========================================
 
 
 Python/Django
-------------------------------------------
+=========================================
 
 - [Django Project](https://www.djangoproject.com/) - "Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design."
 - TastyPie??
 
 Sublime Text
-------------------------------------------
+=========================================
 
 ### [Package Control Manager](https://sublime.wbond.net/)
 
